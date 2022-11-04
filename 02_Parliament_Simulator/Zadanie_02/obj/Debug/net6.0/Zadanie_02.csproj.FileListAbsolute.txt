@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\bin\Debug\net6.0\Zadanie_02.exe
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\bin\Debug\net6.0\Zadanie_02.deps.json
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\bin\Debug\net6.0\Zadanie_02.runtimeconfig.json
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\bin\Debug\net6.0\Zadanie_02.dll
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\bin\Debug\net6.0\Zadanie_02.pdb
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.AssemblyInfo.cs
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.dll
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\refint\Zadanie_02.dll
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.pdb
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\Zadanie_02.genruntimeconfig.cache
+C:\Users\pauli\source\repos\Zadanie_02\Zadanie_02\obj\Debug\net6.0\ref\Zadanie_02.dll
