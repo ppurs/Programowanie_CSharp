@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.AssemblyInfo.cs
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\bin\Debug\net6.0\Zadanie_03.exe
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\bin\Debug\net6.0\Zadanie_03.deps.json
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\bin\Debug\net6.0\Zadanie_03.runtimeconfig.json
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\bin\Debug\net6.0\Zadanie_03.dll
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\bin\Debug\net6.0\Zadanie_03.pdb
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.dll
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\refint\Zadanie_03.dll
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.pdb
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\Zadanie_03.genruntimeconfig.cache
+C:\Users\pauli\source\repos\Zadanie_03\Zadanie_03\obj\Debug\net6.0\ref\Zadanie_03.dll
