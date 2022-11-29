@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.AssemblyInfo.cs
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\bin\Debug\net6.0\Zadanie_05.exe
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\bin\Debug\net6.0\Zadanie_05.deps.json
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\bin\Debug\net6.0\Zadanie_05.runtimeconfig.json
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\bin\Debug\net6.0\Zadanie_05.dll
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\bin\Debug\net6.0\Zadanie_05.pdb
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.dll
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\refint\Zadanie_05.dll
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.pdb
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\Zadanie_05.genruntimeconfig.cache
+C:\Users\pauli\source\repos\Zadanie_05\Zadanie_05\obj\Debug\net6.0\ref\Zadanie_05.dll
