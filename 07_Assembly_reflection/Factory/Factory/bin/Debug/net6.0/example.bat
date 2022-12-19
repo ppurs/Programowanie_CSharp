@@ -1,0 +1,1 @@
+start "" "%~dp0Factory\Factory\bin\Debug\net6.0\Factory.exe" "..\..\..\..\..\BeerProcessor\BeerProcessor\bin\Debug\net6.0\BeerProcessor.dll;Piwo dla Franka" "..\..\..\..\..\SandwichProcessor\SandwichProcessor\bin\Debug\net6.0\SandwichProcessor.dll;Kanapka dla Franka" "..\..\..\..\..\SandwichProcessor\SandwichProcessor\bin\Debug\net6.0\SandwichProcessor.dll;Kanapka Janiny"

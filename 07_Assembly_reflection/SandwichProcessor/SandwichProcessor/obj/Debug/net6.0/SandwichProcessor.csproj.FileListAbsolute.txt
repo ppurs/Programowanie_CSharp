@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\bin\Debug\net6.0\SandwichProcessor.deps.json
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\bin\Debug\net6.0\SandwichProcessor.dll
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\bin\Debug\net6.0\SandwichProcessor.pdb
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\bin\Debug\net6.0\Common.dll
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\bin\Debug\net6.0\Common.pdb
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.AssemblyInfo.cs
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.csproj.CopyComplete
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.dll
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\refint\SandwichProcessor.dll
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\SandwichProcessor.pdb
+C:\Users\pauli\source\repos\Zadanie_07\SandwichProcessor\SandwichProcessor\obj\Debug\net6.0\ref\SandwichProcessor.dll

@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\bin\Debug\net6.0\BeerProcessor.deps.json
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\bin\Debug\net6.0\BeerProcessor.dll
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\bin\Debug\net6.0\BeerProcessor.pdb
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\bin\Debug\net6.0\Common.dll
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\bin\Debug\net6.0\Common.pdb
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.AssemblyInfo.cs
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.csproj.CopyComplete
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.dll
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\refint\BeerProcessor.dll
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\BeerProcessor.pdb
+C:\Users\pauli\source\repos\Zadanie_07\BeerProcessor\BeerProcessor\obj\Debug\net6.0\ref\BeerProcessor.dll
